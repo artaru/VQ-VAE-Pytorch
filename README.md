@@ -1,4 +1,4 @@
-![image](Figures/Original)
+![image](Figures/Original.png)
 
 ![image](https://github.com/user-attachments/assets/404097fa-5318-4fef-a7da-96002298b7a6)
 
